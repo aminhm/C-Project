@@ -1,2 +1,2 @@
-# C Project
+# Chat program with socket programming
  
